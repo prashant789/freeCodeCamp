@@ -117,6 +117,7 @@ Some other (`math.h`) library functions that may prove useful are:
 ```#include <math.h>
 double angle = cos(90.00); // Givs us 0.00
 int result = sqrt(16); // Gives us 4
+int power = pow(2,3); // Gives us 8
 double result = log(10.00) // Gives us 2.30 (note this is ln(10), not log base 10)
 ```
 
